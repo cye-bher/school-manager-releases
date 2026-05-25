@@ -1,0 +1,6 @@
+{
+  "version": "3.5.1",
+  "download_url": "https://github.com/emmanuelgh-pro/school-manager-releases/releases/download/v1.0.1/school-manager-javafx-fat.jar",
+  "release_notes": "Bug fixes and backup/update features.",
+  "mandatory": false
+}
