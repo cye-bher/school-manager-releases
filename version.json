@@ -1,5 +1,5 @@
 {
-  "version": "3.5.1",
+  "version": "3.5.6",
   "download_url": "https://github.com/cye-bher/school-manager-releases/releases/tag/3.5.1/school-manager-javafx-fat.jar",
   "release_notes": "Bug fixes and backup/update features.",
   "mandatory": false
