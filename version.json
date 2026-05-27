@@ -1,6 +1,6 @@
 {
   "version": "4.0.0",
-  "download_url": "https://github.com/cye-bher/school-manager-releases/releases/tag/4.0.0/school-manager-javafx-fat.jar",
+  "download_url": "https://github.com/cye-bher/school-manager-releases/releases/download/4.0.0/school-manager-javafx-fat.jar",
   "release_notes": "update feature fixed.",
   "mandatory": false
 }
